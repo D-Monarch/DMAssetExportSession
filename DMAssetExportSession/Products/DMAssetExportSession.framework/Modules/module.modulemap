@@ -1,0 +1,6 @@
+framework module DMAssetExportSession {
+  umbrella header "DMAssetExportSession.h"
+
+  export *
+  module * { export * }
+}
